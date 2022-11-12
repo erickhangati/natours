@@ -1,4 +1,4 @@
-# Mapty Workout App
+# Natours - Tours Booking App
 
 ![Design preview for the Natours App](screenshot.png)
 
