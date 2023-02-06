@@ -30,4 +30,4 @@ Payments are made using Stripe Checkout.
 
 ## Live link to the Natours - Tours Booking App
 
-[https://natours-eric.herokuapp.com/](https://natours-eric.herokuapp.com/ 'Natour App')
+[https://natours-0qpt.onrender.com/](https://natours-0qpt.onrender.com/ 'Natour App')
